@@ -103,8 +103,10 @@ The `review` context supports “Why be cautious” after that summary. The `qui
 | --- | --- |
 | index.html | Complete website, styling, prompt-copy behaviour and Dialogflow Messenger embed. |
 | README.md | Project overview, agent design, hosting instructions and evidence status. |
+| deliverables/ScamShield_AI_ES_Import.zip | Importable Dialogflow ES agent backup. |
+| deliverables/Imrul_Kayes_Shaikh_1000700_ScamShield_SA1.pdf | Final three-page submission summary. |
 
-The Dialogflow export and other assignment evidence are not currently included in this replacement repository. The intent and entity inventory above was checked against the separately retained prepared export.
+The intent and entity inventory above was checked against the included prepared Dialogflow ES export.
 
 ## Deployment instructions
 
@@ -149,4 +151,4 @@ The page does not implement its own chat database. Messages are processed throug
 
 ## Submission status
 
-The website is deployed and a live greeting has been demonstrated. A detailed README is supplied here. Remaining assignment items include the final submission PDF, assessor access to this private repository, uploading the agent backup/supporting evidence, and the outstanding testing evidence described above.
+The website is deployed and a live greeting has been demonstrated. The detailed README, Dialogflow ES backup and final submission PDF are included. Access has been invited for the assessor account and is pending acceptance. The outstanding limitation is the incomplete five-scenario testing evidence described above.
